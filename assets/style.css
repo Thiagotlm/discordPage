@@ -27,9 +27,7 @@ header{
     width: 1280px;
     height: 459px;
     flex-shrink: 0; 
-}
-
-.header-background{
+    background-image: url(../public/header-background.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
