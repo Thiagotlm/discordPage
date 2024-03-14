@@ -32,6 +32,11 @@ header{
     background-size: cover;    
 }
 
+.header-background{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .header-content{
     display: inline-flex;
     flex-direction: column;
