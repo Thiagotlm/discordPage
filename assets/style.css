@@ -67,6 +67,9 @@ header{
     align-items: flex-start;
     gap: 16px;
 }
+.buttons a{
+    text-decoration: none;
+}
 
 .buttons button{
     width: 205px;
